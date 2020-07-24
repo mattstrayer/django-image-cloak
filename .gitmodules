@@ -1,0 +1,3 @@
+[submodule "fawkes"]
+	path = fawkes
+	url = https://github.com/Shawn-Shan/fawkes.git

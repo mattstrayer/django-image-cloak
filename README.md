@@ -1,2 +1,2 @@
-# django-FawkesImageField
-Django model field for image cloaking using the Fawkes engine
+# django-image-cloak
+Django app for image cloaking using the Fawkes engine
